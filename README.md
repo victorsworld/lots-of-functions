@@ -8,11 +8,10 @@ Write a function called `sayHi` that takes in a name string and adds "Hi, " befo
 
 #### `bigString`
 
-Write a function called `bigString` that takes in 2 strings and returns which one is bigger.  If the strings are equal in size, tell the user and prints both.
-
+Write a function called `bigString` that takes in 2 strings and returns which one is bigger.  If the strings are equal in size, return a string that indicates this to the user.
 #### `bigNumber`
 
-Write a function called `bigNumber` that takes in 2 numbers and returns which one is greater. If the numbers are equal tell the user.
+Write a function called `bigNumber` that takes in 2 numbers and returns which one is greater. If the numbers are equal return a string that indicates the two numbers are equal.
 
 #### `fiveMore`
 
@@ -25,7 +24,7 @@ Write a function called `arraySummer` that takes in an array of numbers and adds
 
 #### `everyDivisible`
 
-Write a function called `everyDivisible` that takes in a number `n` that is less than 10 and then prints every number less than or equal to 100 that is divisible that number `n`.
+Write a function called `everyDivisible` that takes in a number `n` then prints every number less than or equal to 100 that is divisible that number `n`.
 
 For example, if `n = 7`
 
