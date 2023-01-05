@@ -8,15 +8,15 @@ Write a function called `sayHi` that takes in a name string and adds "Hi, " befo
 
 #### `bigString`
 
-Write a function called `bigString` that takes in 2 strings and returns which one is bigger.  If the strings are equal in size, return a string that indicates this to the user.
+Write a function called `bigString` that takes in 2 strings and returns which one is bigger.  If the strings are equal in size, return a string that indicates this to the user instead.
+
 #### `bigNumber`
 
-Write a function called `bigNumber` that takes in 2 numbers and returns which one is greater. If the numbers are equal return a string that indicates the two numbers are equal.
+Write a function called `bigNumber` that takes in 2 numbers and returns which one is greater. If the numbers are equal return a string that indicates the two numbers are equal instead.
 
-#### `fiveMore`
+#### `fiveMoreOdd`
 
-Write a function called `fiveMore` that takes in an array of numbers and adds 5 to each odd number then returns the updated array.
-
+Write a function called `fiveMoreOdd` that takes in an array of numbers and adds 5 to each odd number then returns the updated array.
 
 #### `arraySummer`
 
